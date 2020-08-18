@@ -26,8 +26,6 @@ C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
-C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
-C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
@@ -39,3 +37,5 @@ C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.genruntimeconfig.cache
+C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache

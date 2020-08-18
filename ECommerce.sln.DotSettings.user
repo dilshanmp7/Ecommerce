@@ -4,6 +4,6 @@
 &lt;/AssemblyExplorer&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00e9a6a9_002D15e4_002D4af8_002D98a1_002De3e0d38ce35e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductsReturnAllProducts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::541B706D-C86C-49DD-9425-FF4E98657BBC::.NETCoreApp,Version=v3.1::Ecommerce.Api.Product.Tests.ProductServiceTest.GetProductsReturnAllProducts&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::541B706D-C86C-49DD-9425-FF4E98657BBC::.NETCoreApp,Version=v3.1::Ecommerce.Api.Product.Tests.ProductServiceTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

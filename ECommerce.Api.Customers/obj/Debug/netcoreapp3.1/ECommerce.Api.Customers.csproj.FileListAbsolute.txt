@@ -28,8 +28,6 @@ C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreap
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CopyComplete
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CoreCompileInputs.cache
-C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.deps.json
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.runtimeconfig.json
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.runtimeconfig.dev.json
@@ -39,3 +37,5 @@ C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\bin\Debug\netcoreap
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.dll
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.pdb
 C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.genruntimeconfig.cache
+C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CoreCompileInputs.cache
+C:\Users\dper\source\repos\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.MvcApplicationPartsAssemblyInfo.cache

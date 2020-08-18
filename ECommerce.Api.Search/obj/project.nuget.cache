@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7TCSBbH1q/c2tyT7iUsuNb/Awg2esuBYcHmH+NBZ2XaR45Nig5qm2CamQk0xiQEbsx1NHBIbf70MmWDfV8pwLg==",
+  "dgSpecHash": "Y05ZtuyK8kjVJIL/sDaH1iY9PBkMQyd0e80YN4bvaEHsb5ZHHR2Bhx3piMLjDAlQDeXR5DK8gXlVK4/E3vcb5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\dper\\source\\repos\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\dper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\dper\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
     "C:\\Users\\dper\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\dper\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\dper\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\dper\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\dper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
